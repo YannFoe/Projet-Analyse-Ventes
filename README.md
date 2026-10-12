@@ -13,3 +13,13 @@ Ce projet a pour objectif d'analyser une base de données de ventes afin d'ident
 ## 📈 Résultats & Insights clés
 * Mise en place d'un tableau de bord synthétique permettant de suivre l'évolution des ventes.
 * Identification des axes d'amélioration pour la stratégie commerciale.
+## 📷 Aperçu du Projet
+
+### 1. Données brutes / structurées
+![Données](Données.png)
+
+### 2. Indicateurs clés (KPI)
+![KPI](KPI.png)
+
+### 3. Tableau de bord final
+![Tableau de bord](Tableau de bord.png)
