@@ -21,4 +21,7 @@ Ce projet a pour objectif d'analyser une base de données de ventes afin d'ident
 ### 2. Indicateurs clés (KPI)
 ![KPI](KPI.png)
 
+### 3. Tableau de bord final 
+![TCD](TCD.png)
+
 
