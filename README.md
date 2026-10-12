@@ -22,4 +22,4 @@ Ce projet a pour objectif d'analyser une base de données de ventes afin d'ident
 ![KPI](KPI.png)
 
 ### 3. Tableau de bord final
-![Tableau de bord](Tableau de bord.png)
+![Tableau de bord](Tableaudebord.png)
